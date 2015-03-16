@@ -31,4 +31,8 @@ public final class OutVar<T> {
     public String toString() {
         return String.valueOf(obj);
     }
+	public void doNothing()
+	{
+	}
+
 }
